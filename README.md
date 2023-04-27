@@ -1,2 +1,1 @@
-# the'green'shrine
-the'green'one
+# the-green-shrine
